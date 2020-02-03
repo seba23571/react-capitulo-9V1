@@ -1,6 +1,6 @@
 This project is a backend to react frontend  [React frontend](https://quickstart-1549357259687.firebaseapp.com/).
 
-## Available Scripts
+## Designed by author [Esteban eduart](https://supraweb-soft.negocio.site/).
 
 In the project directory, you can run:
 
