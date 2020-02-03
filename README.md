@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a backend to react frontend  [React frontend](https://quickstart-1549357259687.firebaseapp.com/).
 
 ## Available Scripts
 
