@@ -10,5 +10,5 @@ Runs the app in the development mode.<br />
 Open  [https://quickstart-1549357259687.firebaseapp.com/](https://quickstart-1549357259687.firebaseapp.com/) to view it in the browser.
 
 
-backend developed in spring boot .. hostin in heroku
+backend developed in spring boot .. hostig in heroku
 
